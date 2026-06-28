@@ -12,15 +12,15 @@ last-updated: 2026-05-21
 Final-year Software Engineering student specializing in backend development and AI-driven applications.
 
 ## Contact Information
-- **Email**: sarafay2003@gmail.com
-- **Phone**: +92 313 2975559
+- **Email**: abcdef@gmail.com
+- **Phone**: 0000000000
 - **GitHub**: github.com/sarafay2003
 
 ## Education
-- **Bahria University Karachi**: Bachelor of Software Engineering (Expected July 2026)
+- **ABC University **: Bachelor of Software Engineering (Expected July 2026)
 
 ## Professional Experience
-- **Software Quality Assurance Intern** at Paysys Labs Pvt. Ltd. (Oct 2025 – Jan 2026)
+- **Software Quality Assurance Intern** at Software Labs Pvt. Ltd. (Oct 2025 – Jan 2026)
     - Focused on API testing, test case design, and regression testing using Postman and Swagger.
 
 ## Technical Skills
